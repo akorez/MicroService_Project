@@ -67,3 +67,5 @@ C:\Projects\MicroService_Project\CommandsService\obj\Debug\net6.0\refint\Command
 C:\Projects\MicroService_Project\CommandsService\obj\Debug\net6.0\CommandsService.pdb
 C:\Projects\MicroService_Project\CommandsService\obj\Debug\net6.0\CommandsService.genruntimeconfig.cache
 C:\Projects\MicroService_Project\CommandsService\obj\Debug\net6.0\ref\CommandsService.dll
+C:\Projects\MicroService_Project\CommandsService\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Projects\MicroService_Project\CommandsService\bin\Debug\net6.0\System.Threading.Channels.dll

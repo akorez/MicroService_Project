@@ -1,4 +1,6 @@
+using CommandsService.AsyncDataServices;
 using CommandsService.Data;
+using CommandsService.EventProcessing;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
 
@@ -13,6 +15,8 @@ builder.Services.AddDbContext<AppDbcontext>( opt=>opt.UseInMemoryDatabase("InMem
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 builder.Services.AddScoped<ICommandRepo,CommandRepo>();
+builder.Services.AddSingleton<IEventProcessor,EventProcessor>();
+builder.Services.AddHostedService<MessageBusSubscriber>();
 
 var app = builder.Build();
 
