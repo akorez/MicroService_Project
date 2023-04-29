@@ -69,3 +69,10 @@ C:\Projects\MicroService_Project\CommandsService\obj\Debug\net6.0\CommandsServic
 C:\Projects\MicroService_Project\CommandsService\obj\Debug\net6.0\ref\CommandsService.dll
 C:\Projects\MicroService_Project\CommandsService\bin\Debug\net6.0\RabbitMQ.Client.dll
 C:\Projects\MicroService_Project\CommandsService\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Projects\MicroService_Project\CommandsService\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Projects\MicroService_Project\CommandsService\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Projects\MicroService_Project\CommandsService\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Projects\MicroService_Project\CommandsService\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Projects\MicroService_Project\CommandsService\bin\Debug\net6.0\PlatformService.dll
+C:\Projects\MicroService_Project\CommandsService\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Projects\MicroService_Project\CommandsService\bin\Debug\net6.0\PlatformService.pdb
