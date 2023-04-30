@@ -17,4 +17,7 @@ For an end-to-end microservices application, you can check out my [Udemy Clone](
 ## System Overview
 ![kubernetes_github6](https://user-images.githubusercontent.com/34706028/235376342-5b375c9b-960a-458c-bee9-5d4f253db261.jpg)
 
-> *Disclaimer : This project was prepared by using the microservices course that Les Jackson published on Youtube.*
+## Kubernetes Overview
+![kubernetes_github7](https://user-images.githubusercontent.com/34706028/235376723-d70a81d0-5eff-4ab7-a8b5-d8434cc193ce.jpg)
+
+> *Disclaimer : This project was implemented by using the microservices course that Les Jackson published on Youtube.*
